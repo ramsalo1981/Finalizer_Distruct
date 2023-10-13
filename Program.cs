@@ -10,7 +10,7 @@ namespace CAFinalizer
             // N0: number without ,00 with space between 3numbers <=> 999 999
             MakeSomGarbage();
             Console.WriteLine($"Memory used before Collecion: {GC.GetTotalMemory(false):N0}");
-            MakeSomGarbage();
+            GC.Collect();
             Console.WriteLine($"Memory used after collection: {GC.GetTotalMemory(true):N}");
         }
         static void MakeSomGarbage()
