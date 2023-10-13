@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAFinalizer\bin\Debug\net7.0\CAFinalizer.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAFinalizer\bin\Debug\net7.0\CAFinalizer.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAFinalizer\bin\Debug\net7.0\CAFinalizer.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAFinalizer\bin\Debug\net7.0\CAFinalizer.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAFinalizer\bin\Debug\net7.0\CAFinalizer.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAFinalizer\obj\Debug\net7.0\CAFinalizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAFinalizer\obj\Debug\net7.0\CAFinalizer.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAFinalizer\obj\Debug\net7.0\CAFinalizer.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAFinalizer\obj\Debug\net7.0\CAFinalizer.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAFinalizer\obj\Debug\net7.0\CAFinalizer.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAFinalizer\obj\Debug\net7.0\refint\CAFinalizer.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAFinalizer\obj\Debug\net7.0\CAFinalizer.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAFinalizer\obj\Debug\net7.0\CAFinalizer.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAFinalizer\obj\Debug\net7.0\ref\CAFinalizer.dll
